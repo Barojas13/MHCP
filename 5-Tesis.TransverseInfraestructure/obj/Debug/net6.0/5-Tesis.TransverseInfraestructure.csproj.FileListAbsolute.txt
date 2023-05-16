@@ -1,0 +1,12 @@
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\5-Tesis.TransverseInfraestructure\bin\Debug\net6.0\5-Tesis.TransverseInfraestructure.deps.json
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\5-Tesis.TransverseInfraestructure\bin\Debug\net6.0\5-Tesis.TransverseInfraestructure.dll
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\5-Tesis.TransverseInfraestructure\bin\Debug\net6.0\5-Tesis.TransverseInfraestructure.pdb
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\5-Tesis.TransverseInfraestructure\obj\Debug\net6.0\5-Tesis.TransverseInfraestructure.csproj.AssemblyReference.cache
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\5-Tesis.TransverseInfraestructure\obj\Debug\net6.0\5-Tesis.TransverseInfraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\5-Tesis.TransverseInfraestructure\obj\Debug\net6.0\5-Tesis.TransverseInfraestructure.AssemblyInfoInputs.cache
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\5-Tesis.TransverseInfraestructure\obj\Debug\net6.0\5-Tesis.TransverseInfraestructure.AssemblyInfo.cs
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\5-Tesis.TransverseInfraestructure\obj\Debug\net6.0\5-Tesis.TransverseInfraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\5-Tesis.TransverseInfraestructure\obj\Debug\net6.0\5-Tesis.TransverseInfraestructure.dll
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\5-Tesis.TransverseInfraestructure\obj\Debug\net6.0\refint\5-Tesis.TransverseInfraestructure.dll
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\5-Tesis.TransverseInfraestructure\obj\Debug\net6.0\5-Tesis.TransverseInfraestructure.pdb
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\5-Tesis.TransverseInfraestructure\obj\Debug\net6.0\ref\5-Tesis.TransverseInfraestructure.dll

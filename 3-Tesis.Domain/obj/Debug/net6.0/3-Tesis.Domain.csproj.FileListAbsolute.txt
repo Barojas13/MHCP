@@ -1,0 +1,17 @@
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\3-Tesis.Domain\bin\Debug\net6.0\3-Tesis.Domain.deps.json
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\3-Tesis.Domain\bin\Debug\net6.0\3-Tesis.Domain.dll
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\3-Tesis.Domain\bin\Debug\net6.0\3-Tesis.Domain.pdb
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\3-Tesis.Domain\bin\Debug\net6.0\4-Tesis.DataAccess.dll
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\3-Tesis.Domain\bin\Debug\net6.0\5-Tesis.TransverseInfraestructure.dll
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\3-Tesis.Domain\bin\Debug\net6.0\4-Tesis.DataAccess.pdb
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\3-Tesis.Domain\bin\Debug\net6.0\5-Tesis.TransverseInfraestructure.pdb
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\3-Tesis.Domain\obj\Debug\net6.0\3-Tesis.Domain.csproj.AssemblyReference.cache
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\3-Tesis.Domain\obj\Debug\net6.0\3-Tesis.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\3-Tesis.Domain\obj\Debug\net6.0\3-Tesis.Domain.AssemblyInfoInputs.cache
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\3-Tesis.Domain\obj\Debug\net6.0\3-Tesis.Domain.AssemblyInfo.cs
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\3-Tesis.Domain\obj\Debug\net6.0\3-Tesis.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\3-Tesis.Domain\obj\Debug\net6.0\3-Tesis.Domain.csproj.CopyComplete
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\3-Tesis.Domain\obj\Debug\net6.0\3-Tesis.Domain.dll
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\3-Tesis.Domain\obj\Debug\net6.0\refint\3-Tesis.Domain.dll
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\3-Tesis.Domain\obj\Debug\net6.0\3-Tesis.Domain.pdb
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\3-Tesis.Domain\obj\Debug\net6.0\ref\3-Tesis.Domain.dll

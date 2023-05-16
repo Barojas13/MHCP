@@ -1,0 +1,17 @@
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\4-Tesis.DataAccess\bin\Debug\net6.0\4-Tesis.DataAccess.deps.json
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\4-Tesis.DataAccess\bin\Debug\net6.0\4-Tesis.DataAccess.runtimeconfig.json
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\4-Tesis.DataAccess\bin\Debug\net6.0\4-Tesis.DataAccess.dll
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\4-Tesis.DataAccess\bin\Debug\net6.0\4-Tesis.DataAccess.pdb
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\4-Tesis.DataAccess\bin\Debug\net6.0\5-Tesis.TransverseInfraestructure.dll
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\4-Tesis.DataAccess\bin\Debug\net6.0\5-Tesis.TransverseInfraestructure.pdb
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\4-Tesis.DataAccess\obj\Debug\net6.0\4-Tesis.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\4-Tesis.DataAccess\obj\Debug\net6.0\4-Tesis.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\4-Tesis.DataAccess\obj\Debug\net6.0\4-Tesis.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\4-Tesis.DataAccess\obj\Debug\net6.0\4-Tesis.DataAccess.AssemblyInfo.cs
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\4-Tesis.DataAccess\obj\Debug\net6.0\4-Tesis.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\4-Tesis.DataAccess\obj\Debug\net6.0\4-Tesis.DataAccess.csproj.CopyComplete
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\4-Tesis.DataAccess\obj\Debug\net6.0\4-Tesis.DataAccess.dll
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\4-Tesis.DataAccess\obj\Debug\net6.0\refint\4-Tesis.DataAccess.dll
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\4-Tesis.DataAccess\obj\Debug\net6.0\4-Tesis.DataAccess.pdb
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\4-Tesis.DataAccess\obj\Debug\net6.0\4-Tesis.DataAccess.genruntimeconfig.cache
+C:\Users\Brayan Rojas\Source\repos\Tesis.ETL\4-Tesis.DataAccess\obj\Debug\net6.0\ref\4-Tesis.DataAccess.dll
